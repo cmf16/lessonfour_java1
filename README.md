@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 7, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Claire Fry)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I created a web page to calculate expenses based off the users input.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://cmf16.github.io/lessonfour_java1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (The toFixed() method rounds the output to a specific amount of values.)
+2. (The order of the calculations matters sometimes. Ex: calculating the total expenses before the individual percentages.)
+3. (To reset the calculation page, the getElementById() can be used to reset the values.)
 
 
 
